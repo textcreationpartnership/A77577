@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discovery of the true causes, symptoms and effects, of that most reigning disease, the scurvy. Together with the causes, symptoms, and effects of several other dangerous diseases. : Whereunto is added, a short account of those incomparable and most highly approved pills, called pilulae in omnes morbos: or, pills against all diseases ... / Prepared and set forth for the publick benefit, by M. Bromfield, approved physician ...</title>
+            <author>Bromfield, M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77577</idno>
+            <idno type="STC">Wing B4884J</idno>
+            <idno type="STC">ESTC R175607</idno>
+            <idno type="EEBO-CITATION">45789182</idno>
+            <idno type="OCLC">ocm 45789182</idno>
+            <idno type="VID">172496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172496)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2635:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discovery of the true causes, symptoms and effects, of that most reigning disease, the scurvy. Together with the causes, symptoms, and effects of several other dangerous diseases. : Whereunto is added, a short account of those incomparable and most highly approved pills, called pilulae in omnes morbos: or, pills against all diseases ... / Prepared and set forth for the publick benefit, by M. Bromfield, approved physician ...</title>
+                  <author>Bromfield, M.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scurvy --  England --  Treatment --  Early works to 1800.</term>
+               <term>Diseases --  England --  Early works to 1800.</term>
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172496:1"/>
+            <pb facs="tcp:172496:1"/>
+            <p>A BRIEF DISCOVERY OF THE TRUE CAUSES, SYMPTOMS, and EFFECTS, Of that moſt reigning Diſeaſe, the SCURVY.</p>
+            <p>TOGETHER WITH The Cauſes, Symptoms, and Effects of ſeveral other dangerous DISEASES. Whereunto is added, A ſhort Account of thoſe Incom<g ref="char:EOLhyphen"/>parable and moſt highly approved PILLS, CALLED PIL<g ref="char:V">Ʋ</g>LAE <hi>in Omnes MORBOS:</hi> OR, PILLS againſt all DISEASES.</p>
+            <p>Which are the only Famous Medicine of this Age againſt the above-named Diſtemper, and all other Curable Diſeaſes.</p>
+            <p>Prepared and ſet forth for the Publick Benefit, By <hi>M. Bromfield,</hi> Approved Phyſician.</p>
+            <p>And are to be ſold At his own Houſe at the BLUE BALLS in Plow-yard in Fetter-Lane, LONDON.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:172496:2"/>
+            <head>The Cauſes, Symptoms, and Effects of the <hi>SCURVY.</hi>
+            </head>
+            <p>THis Diſeaſe doth chiefly proceed from Melancholy, bred by diſtem<g ref="char:EOLhyphen"/>per of the Stomack, or Spleen; which being crude, ſtays in the paſſages of the Arteries and Veins, and thereby doth excite grievous fer<g ref="char:EOLhyphen"/>mentation or workings, from whence are ſent vapours which afflict the heart and brain, <hi>&amp;c.</hi> from all which is cauſed malignant and contagious putrefaction of Melancholy; and thence proceed theſe Symptoms, <hi>viz.</hi> giddineſs in the head, ſudden fluſhings, heat, and redneſs in the face and body, putrefaction and ſtinking of the mouth and gums, toothach, ſtin<g ref="char:EOLhyphen"/>king breath, blackneſs and looſneſs of the teeth, want of digeſtion, much winde, and unſavoury belchings: and by thick vapours ariſing from the <hi>Hypochondria</hi> to the Midriff, is occaſioned obſtructions of Reſpiration, or ſhortneſs of breath, and ſtraitneſs of the breaſt, <hi>&amp;c.</hi> The body is dull and heavie, and in the Legs are ſpots, ſometimes red, purple, black or blue: There is alſo violent pains in the head, ſhoulders, arms, fingers, belly, thighs, knees, Legs, ankles, feet and toes: Whence ſome who have had the <hi>POX,</hi> (though cured) do fear the return of their old Maladie. There are many thouſands have this diſtemper, that are perſwaded they have <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Gout;</hi> becauſe ſometimes it hath the very ſignes of the <hi>Gout;</hi> which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the cauſe why the <hi>Scurvy</hi> (which by miſtake is judged the <hi>Gout</hi>) is <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dom cured. For thoſe Medicaments pertinent in the <hi>Gout,</hi> are not the very ſame in the <hi>Scurvy,</hi> and conſequently cannot cure it. Other ſignes of the <hi>Scurvy,</hi> are bad ſleep and frightful dreams, a feveriſh heat, and ſweats towards the morning. Some have riſings in their body, as if ſtung with Bees or Waſps, <hi>&amp;c.</hi> others have dolours in their ſide, imitating thoſe of the <hi>Spleen.</hi> And in ſhort, it doth appear to a judicious eye, with, and in the ſhape of moſt Diſeaſes; as hath been ſufficiently apparent, not only to my ſelf, but alſo to ſeveral other experienced Phyſicians, who with me have traced this Diſeaſe, and made exact inſpection into its va<g ref="char:EOLhyphen"/>riable dreſſes, for many years together. And we have alſo obſerved, that it is propagated and ſpread abroad in theſe parts of the world, more than any other Diſtemper whatſoever; and by its ſundry ſhapes, hath ſeduced many in their judgement of the Diſeaſe. For in ſome it paſſeth for a <hi>Conſumption,</hi> in others for a <hi>Dropſie,</hi> &amp;c. and Medicines are given accor<g ref="char:EOLhyphen"/>dingly; but alas, to little purpoſe; and all for want of true knowledge of the Original of the Diſeaſe it ſelf. And here obſerved a great Truth, <hi>viz.</hi> That there are very few afflicted with and Diſtemper of long con<g ref="char:EOLhyphen"/>tinuance, who have not annexed with it a Scorbutick taint; which unleſs it be conſidered, and Antiſcorbutick Medicaments given, the Patient is very rarely, if ever cured. Now the concluſion of all (if the <hi>Scurvy</hi> comes
+<pb n="3" facs="tcp:172496:2"/>to be predominant) is ſometimes <hi>Swoonings, Apoplexies, Dropſies,</hi> great decay of the body, incurable <hi>Conſumptions,</hi> &amp;c. Note, that in ſome the <hi>Scurvy</hi> is hereditary; and that there are ſome few Cauſes thereof, beſides thoſe here ſet down: but theſe being uſually the chief, for brevity the other are omitted.</p>
+            <p>I Shall now, to oblige the Sons and Daughters of <hi>Venus,</hi> briefly diſcover the true ſymptoms and effects of the <hi>Grand POX,</hi> and <hi>Gonorrhaea,</hi> or <hi>Running of the Reins.</hi>
+            </p>
+            <p>The Diſcourſe will hardly infect any that are not already Diſeaſed, or in the leaſt prejudice their reputation: And to read it heedfully, is the way to inſtruct many in what before they were ignorant. Alſo thoſe in theſe Diſtempers concerned, will for what I have writ, be obliged to give me thanks. I ſhall begin with the ſymptoms of the <hi>POX.</hi>
+            </p>
+            <p>Which are pains in the head, ſhoulders, arms, back, knees, ſhins and Legs, Nodes or hard knobs in the head, joynts, or ſhin bones, Bubo's in the Groin, Tumors in the Teſticles, Scabs or breaking out in the head, neck, face, or other parts of the body; Ulcers in the throat, mouth, pa<g ref="char:EOLhyphen"/>late, noſe, or privie parts, and ſometimes in the Legs, with a general in<g ref="char:EOLhyphen"/>diſpoſition of body. Theſe are the ſymptoms which uſually go along with this Diſeaſe.</p>
+            <p>Now rightly to diſtinguiſh the pains of the <hi>POX</hi> (from thoſe of ſuch other diſtempers as moſt reſemble it) pleaſe to accept and obſerve theſe fol<g ref="char:EOLhyphen"/>lowing Rules. Firſt, the pains of the <hi>POX</hi> are very like thoſe of the <hi>Scurvy,</hi> ſave that theſe of the <hi>POX</hi> do uſually ſeize the patient in the night; and when well warm in bed, are then moſt violent. They fre<g ref="char:EOLhyphen"/>quently continue till towards day, and then vaniſh almoſt, if not quite a<g ref="char:EOLhyphen"/>way, until night the come again: only ſometimes in the day, are felt ſome ſharp pains in the head, ſhoulders, arms, Legs, <hi>&amp;c.</hi> but are quickly gone again. Moreover, the pains of the <hi>POX</hi> are ever between the Joynts, and uſually (if the Diſeaſe be of very long continuance) thoſe pains do fix Nodes, or hard knobs on the Joynts: but neither of theſe ſymptoms are ſo incident to the <hi>Scurvy.</hi> It is diſtinguiſhed from the <hi>Arthritas,</hi> or Joynt-grout, by its nocturnal dolours, or pains in the night: for the pains of the <hi>Gout,</hi> (contrary to thoſe of the <hi>POX</hi>) are often greater in the day than night. Many have joyned with this Diſeaſe a conſuming Hectick Fever, often cauſed by thoſe unlucky over hot and drying Diet-drinks, violent Purges and Sweats raſhly given to thoſe of thin, hot and dry con<g ref="char:EOLhyphen"/>ſtitutions: ſuch bodies receive the ſame miſchief from an ill-managed Salviation or Fluxing: and an Hectick thus contracted, for the moſt part, ends in the grave; and others, by unskilful Fluxing, have the pockie
+<pb n="4" facs="tcp:172496:3"/>humours plentifully raiſed into their heads, where (by their corroding quality) they too often ulcerate the throat, and conſume the palate and gums: which humours being raiſed, and mixed with a venomous and ill-prepared Mercurial Medicine, do alſo poyſon and level the Noſe, and beget all thoſe diſhonourable and fatal conſequences of this foul Diſeaſe.</p>
+         </div>
+         <div type="part">
+            <head>The Symptoms and Effects of the <hi>Gonorrhaea,</hi> or <hi>Running of the Reins.</hi>
+            </head>
+            <p>THis Diſeaſe is known by an Iſſue from the privities, not of Seed, (as by ſome ſuppoſed) but of a virulent matter, which often ulcerates the Urinary paſſage, and cauſeth <hi>Caruncles</hi> to grow in the Yard, from whence is ſent corrupt matter; which falling by parcels, reſembles ſmall pieces of fleſh. The Patient hath a ſcalding heat, ſharpneſs and pain in making Urine, which ſometimes comes away by drops; there is alſo a great pain in erection of the Yard. Theſe are the Symptoms that moſt frequently attend this Diſeaſe.</p>
+            <p>The Effects are many times the <hi>POX,</hi> to which 'tis ſomewhat related; but is chiefly brought in by ſuch as unskilfully attempt to cure the Diſ<g ref="char:EOLhyphen"/>eaſe; whoſe practice it is (without reſpect to their Patients health, or their own credit) with all ſpeed to obſtruct the iſſue at the Privities, from whence the virulent matter immediately mounts into the liver, and other principal parts, where it infallibly vitiates the Bloud, and confirms a <hi>POX,</hi> that yeelds to no ſlight cure: and ſometimes from an ill managed Cure, is left reſident with the Patient an immedicable Gleeting, and many are the miſchiefs brought upon the Patient by ill-prepared Mercurial Me<g ref="char:EOLhyphen"/>dicaments, <hi>&amp;c.</hi>
+            </p>
+            <p>I thought to have given you the cauſes of the <hi>POX,</hi> and <hi>Gonorrhaea,</hi> or <hi>Running of the Reins:</hi> but the chief of them being already well enough known to proceed from Venereal embraces, it would be a kinde of loſt la<g ref="char:EOLhyphen"/>bour to inſert them here. Thoſe who pleaſe may (from my ſelf) have Imfallible Medicines and Directions for perfect and ſpeedy cure of theſe Diſtempers.</p>
+            <p>According to promiſe in my other Books, I am in This to give you ſome account concerning Worms, which are a Vermin, though but little regarded, yet exceeding troubleſome, and very often moſt pernicious.</p>
+            <p>Of theſe creatures are ſeveral ſorts; but the moſt uſual are ſhapeb round and long: theſe are bred in the Gouts, yet ſometimes get into the Stomack. The ſecond ſort are ſhort, and very ſmall, like threds; and commonly lie in the Right-gut, and in the end of the Fundament, wherein is almoſt continual itching; which worms alſo provoke the Patient very often to Stool. The third ſort are long and broad, of an incredidle length, but very rarely ſeen.</p>
+            <pb n="5" facs="tcp:172496:3"/>
+            <p>Worms are moſt cauſed from raw, groſs, flegmatick matter; and there<g ref="char:EOLhyphen"/>fore youth, and ſuch as eat much fruit, are ſeldom free from them: Alſo all great Eaters are very ſubject to them; eſpecially thoſe who eat meats that caſily putrifie in the Stomack, and more at once then Nature can well digeſt; whence follow Crudities, and thence worms; the ſignes of which are many. Some have unſavoury Belchings, and a ſtinking breath, waſting of the gums, heavineſs, fainting, great thirſt, vomiting, cold ſweats, and often a Fever; a ſhort Cough, unquiet ſleep, intolerable gnawing pain in the ſtomack and belly, loſs of appetite, weakneſs and conſumption of the whole body. Many times, the patient hath an inſatiable appetite, cauſed by flat Worms, which devour the food that is eaten. There are a few ſignes more of Worms: but theſe being the moſt com<g ref="char:EOLhyphen"/>mon, and becauſe I would not be too tedious, ſhall ſay no more of the reſt at preſent; only thus much I ſhall adde, that if worms be voided alive, without other excrements, in the beginning of a Diſeaſe, 'tis dangerous, and ſignifies great Crudities; and if voided dead, ſignifies much putrefaction that has killed them, which probably, ſhortly after, kills the patient. In ſhort, 'tis the opinion of our age, grounded upon ſubſtantial proofs, that worms, and their effects, have conducted more people to their graves, than any one Diſtemper whatſoever. And therefore you that ſuſpect them in your ſelves, make much of theſe Infallible PILLS, as your moſt ſpeedy help to prevent a Worm-eaten carcaſe; and take them ere too late; by which doing, you will certainly prolong your days in eaſe and health, and be obliged to thank your Adviſer.</p>
+         </div>
+         <div type="part">
+            <head>The Cauſes, Symptoms, &amp; Effects of <hi>Dropſies.</hi>
+            </head>
+            <p>THe Dropſie <hi>Aſcites,</hi> is from abundance of water heaped up between the <hi>Peritonaeum,</hi> or inner coat of the belly and bowels; which in<g ref="char:EOLhyphen"/>fecting the mouth of the ſtomack, doth bring great Thirſt, and often a Fever. Sometimes it begins in the Feet, and ſwells up wards to the Legs, Thighs, and Cods: but at the ſame time the upper parts of the body uſually conſume. The cauſe of this <hi>Dropſie</hi> may be from a cold diſtemper of the Liver, which cannot make perfect bloud, but flegm, winde, and water. Sometimes a Dropſie may proceed from a <hi>Fever,</hi> hot meats, and too plentiful drinking of Wine; whereby the Liver, Spleen, and Kidneys, may loſe part of their native heat, and conſequently their ability to attract the water, and eject it by the <hi>
+                  <g ref="char:V">Ʋ</g>reters.</hi> The ſame may be cauſed from the natural <hi>Flux</hi> in women flowing too plentifully, or from retention of the fame: And drinking much cold water may diminiſh and diſperſe the native heat, and by that means make way for a <hi>Dropſie.</hi> The Dropſie <hi>Tympanites</hi> is from winde ſhut up in the cavitie of the <hi>Abdomen</hi> or belly,
+<pb n="6" facs="tcp:172496:4"/>and ſometimes in the cavitie of the Gouts. This winde is bred from crude, thick, flegmatick, or Melancholy humours, which by heat having motion, and made thin, become groſs windie vapours. This Dropſie is never of Winde alone, but always mixt with water. But the greateſt part of this diſtemper proceeding from winde, it is then always called a <hi>Tympany.</hi>
+            </p>
+            <p>The Dropſie <hi>Anaſarcais</hi> without controverſie bred from a cold diſtem<g ref="char:EOLhyphen"/>per of the Liver, which hinders its Concoction; from whence, in ſtead of good bloud, it diſperſeth flegmatick humours, and cauſeth the whole body to ſwell. A Dropſie may be alſo cauſed from all tumours or obſtru<g ref="char:EOLhyphen"/>ctions of the Liver, much bleeding, great evacuation by Stool, Sweat, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Note,</hi> All Dropſies are dangerous, and hardly cured. Yet the Dropſie <hi>Anaſarca,</hi> which is occaſioned by Flegme ſpread over the whole body, is eaſieſt cured of the three; but <hi>Aſcites,</hi> and <hi>Tympanites,</hi> with much more difficulty. Notwithſtanding, I here promiſe to the world, that my Pills will perfectly cure the moſt dangerous Dropſie that man can have; provided the Diſeaſe be medicable or curable.</p>
+            <p>
+               <hi>Note,</hi> That all the Symptoms afore-mentioned are ſeldome in all that have theſe Diſeaſes at one and the ſame time, (except thoſe in Dropſies) but moſt are; and ſome have more than theſe, which ſhould have been here inſerted; but brevity being intended, and moſt ſuitable in this place; I therefore judge what hath been already ſaid, ſufficient to ſatisfie all rea<g ref="char:EOLhyphen"/>ſenble perſons in the true knowledge of their Diſeaſe, if afflicted with either of theſe diſtempers. There remains now ſomething more to be ſaid of thoſe Excellent Pills before named; of which briefly thus.</p>
+            <p>One whole Box thereof, price but 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> is uſually enough for perfect cure of either of the aforeſaid Diſeaſes, except the Diſeaſe be contumacious and inveterate; and then the perſon doth ſometimes take a ſmall quan<g ref="char:EOLhyphen"/>tity more, which moſt certainly cures either of theſe Diſeaſes, and without the leaſt danger of future relapſe.</p>
+            <p>Theſe Pills are alſo of moſt admirable uſe for ſuch as have the <hi>POX, Gonerrhaea,</hi> or <hi>Running of the Reins;</hi> and for ſuch as formerly have had either of thoſe Diſeaſes, and ſuſpect an ill Cure, or dread a Relapſe: And are likewiſe one of the moſt ſure and ſpeedy medicines that is, or can be, againſt the <hi>Green ſickneſs,</hi> and for ſuch young women as want their Monthly Viſits. They are alſo excellent againſt Fits of the Mother, and have a peculiar vertue againſt Barrenneſs, if overlooſneſs of the Spermatick Veſſels, Foulneſs of the Womb, thinneſs of Seed, or the <hi>White Flux</hi> be the cauſe. They free the body from all lumpiſh Melancholy humours, and revive and chear drooping ſpirits even to a wonder; infallibly cure the Jaundies, and are moſt excellent againſt heat and ſharpneſs of Urine; moſt wonderfully expel wind, and help all preternatural ſweatings.</p>
+            <pb n="7" facs="tcp:172496:4"/>
+            <p>I ſhall adde, that theſe Pills taken ſometimes to prevent Diſeaſes, or more cloſely followed to cure, as need ſhall require, are moſt excellent for all Families, but more eſpecially thoſe who inhabit neer the Seas; for ſuch (much more than others) are liable to Obſtructions, Agues, the Scurvy, <hi>&amp;c.</hi> as I have always obſerved in my Travels thorowout this Nation, and ſome other Kingdoms beſides. They are alſo the moſt precious medi<g ref="char:EOLhyphen"/>cine in the world for Mariners, and ſuch as travel much by Sea, to whom the <hi>Scurvy,</hi> and many other diſeaſes, are very incident; partly from bad airs, Sea-fogs, ſudden heats and colds, much ſalt, and bad diet; and ſome-times exceſſive drinking of forreign and unfrequented liquors, <hi>&amp;c.</hi> and they are the more commodious for ſuch to take to Sea with them, becauſe they retain their full vertues many years; and in the time of taking them, none is confined to his houſe: nor is there any great need of Broth or Poſſet-drink in their operation, as with other Phyſick, but every one may walk abroad at pleaſure: for indeed they exhilerate the whole body, and make all that take them, more vigorous, and fit for employment, either at home or abroad; and are ſo gentle, that they are moſt ſafely taken by all perſons, from three years old, to the greateſt age; and at all times of the year, even in the coldeſt or hotteſt ſeaſons, and are ſo congruous to all Conſtitutions, as gently to wait Nature in all her dictates; as is daily manifeſted by their ſundry and facile operations: for in ſome they gently move Sweat, in others much Urine, and in others they operate effectually by Stool; and in ſome again, they work both by Sweat, Urine, and Stool. So that which way ſoever Nature is inclined to acquit her ſelf, that very way they are ready to aſſiſt her. And yet frequently they operate after they begin, by quick Stools, and chiefly upon the peccant matter, which they attract and eject with ſuch eaſe, as gives (as well as Cure) great de<g ref="char:EOLhyphen"/>light to all who take them. Many more are the vertues might truly be added to this medicine: but the incredulitie of our Age doth, in part, impede a farther accompt at preſent. Yet (by perſwaſion of Friends) I ſhall adde, That it fortifies the body, and makes it impregnable againſt the aſſaults of all Diſeaſes; and is alſo found, by daily experience, to free the body from all malignant humours, and to reſiſt theſe Diſeaſes, <hi>viz.</hi> the violent <hi>Headach, Palſie, Falling-ſickneſs, Apoplexie, Lethargie</hi> or ſleepy Diſeaſe, <hi>Vertigo, Dizzineſs, Frenzie, Madneſs, Catarrhes</hi> or <hi>De<g ref="char:EOLhyphen"/>fluxions, Aſthma</hi> or ſhortneſs of breath, obſtructions of the <hi>Liver, Spleen,</hi> and <hi>Meſentery; Agues,</hi> Quotidian, Tertain, or Quartan; foulneſs, and all diſtempers of the <hi>Womb;</hi> all pains and foulneſs of the <hi>Stomack;</hi> pu<g ref="char:EOLhyphen"/>trefaction of <hi>Humours; Kings-evil, Leproſie, Mange, Scurf, Running pains, Stitches, Cramps, Convulſions, Gout, Sciatica, Cholick, Stone, Looſ-neſs, Fluxes, Excoriation</hi> of the Inteſtines, or <hi>Griping</hi> in the Guts; <hi>Surfeits,
+<pb n="8" facs="tcp:172496:5"/>Fevers, Pleureſies,</hi> loſs of <hi>Appetite, Vomiting, Conſumptions:</hi> purges all Groſs <hi>Tartarous humours</hi> from the body; frees the whole <hi>Maſs of Bloud</hi> from all im<g ref="char:EOLhyphen"/>puritie, and preſerves the Body ſound and vigorous. And know for certain, that it doth not only prevent theſe Diſeaſes, but doth alſo Cure the moſt of them: And, in a word, (without <hi>Hyperbole</hi>) is one of the moſt ſignificant and Noble medicines of the world: for its ſundry Vertues; againſt all Curable Diſtempers are not to be reckon'd up: which whoſoever liſteth to credit, and make a tho<g ref="char:EOLhyphen"/>row Trial of, ſhall moſt aſſuredly never have cauſe of regret for ſo doing.</p>
+            <p>I ſhall alſo adde, that theſe Pills do wonderfully remedy a <hi>Stinking Breath,</hi> if the cauſe be not in the Teeth; and are ſufficiently known to be the only perti<g ref="char:EOLhyphen"/>nent medicament under the Sun, againſt thoſe painful, watery, Flegmatick or Cholerick Vomitings, incident to the Goodfellow, after drinking much, and ſitting up late at night. Alſo the Pills being taken, to the number of three, four or five, as the body is able, the next morning after hard drinking, do certainly prevent <hi>Surfeits, Fevers, Palſies, Gouts, Dropſies, &amp;c.</hi> which are often the e<g ref="char:EOLhyphen"/>ffects of too much Wine, or ſtrong Liquors</p>
+            <p>I ſhall now inſert the names and dwellings of ſome few (of the great number that I might) who have been reſtored by my Pills, out of the moſt dangerous Diſtempers.</p>
+            <p>
+               <hi>Edward Bell</hi> 
+               <abbr>Eſq</abbr> living about the middle of St. <hi>Anns-lane,</hi> behinde <hi>Weſt<g ref="char:EOLhyphen"/>minſter Abbey,</hi> being exceedingly pained and tortured with the Gout in moſt of his Limbs and Joynts, ſo that he could not go nor ſtand for a long time together, was, after taking but three or four Doſes of my Pills, able to walk pretty ſtoutly; and before he had taken out two Boxes, did judge himſelf perfectly cured.</p>
+            <p>Mr. <hi>Tho. Tery,</hi> one of his Majeſties Officers belonging to the Exciſe for <hi>Bewdly, Kidderminſter,</hi> &amp;c. having been many years afflicted with moſt grievous ſore and rheumatick Eyes, and having been alſo troubled with making every day much bloudie Urine for the ſpace of two years, and thereby being brought very weak, had the advice of ſeveral able Phyſitians in order to his cure; but to no effect, until he took my Pills, wherewith he was perfectly Cured in a very ſhort time.</p>
+            <p>Mr. <hi>Whitway,</hi> living next the <hi>George</hi> in <hi>Seacoal lane,</hi> was exceedingly troubled with ſpitting of much corrupt mattery flegm and bloud, and withal, had a moſt violent Vomiting; all which continued ſome moneths, whereby he was brought extremely weak; and in the opinion of moſt about him, not likely to live many dayes. This man ſent to my houſe for ſome of my Pills, by which, as was ac<g ref="char:EOLhyphen"/>knowledged by himſelf, he received much good, and was in a ſhort time after made perfectly well; and hath ſince reſolved, not to be without ſome of my Pills by him, to be ready upon any ſudden ſickneſs that might happen.</p>
+            <p>Mr. <hi>Dove,</hi> now Land-waiter of his Majeſties <hi>Cuſtom-Houſe, London,</hi> but lately an Officer at <hi>Protſmouth,</hi> where going on board a ſhip, a Splinter ſtruck into his Leg, and gave him ſuch a wound, as proved a long time incurable, notwithſtan<g ref="char:EOLhyphen"/>ding the beſt means was uſed by Chirurgeons, &amp;c. and ſome pounds ſpent in ſeeking after help, but found none until he took my Pills, by the uſe whereof (although he was then ancient and much afflicted with the <hi>Scurvy</hi>) he was made perfectly well, without external or outward application, and hath ſince ſo con<g ref="char:EOLhyphen"/>tinued, as himſelf can witneſs.</p>
+            <p>Mr. <hi>Richard Hinton,</hi> living near the <hi>Cock,</hi> toward the upper end of <hi>Leather<g ref="char:EOLhyphen"/>lane,</hi> being brought into ſuch a low and dangerous condition with griping in the Guts, as there was very little hopes of life, was however by a Friend of
+<pb n="9" facs="tcp:172496:5"/>his adviſed to my Pills, as the only medicine to be hoped in for his recovery; whereupon he freely took them, and was thereby in a very few dayes perfectly recovered.</p>
+            <p>Mr. <hi>Barker,</hi> living at Capt. <hi>Stanton's</hi> next <hi>Queen-ſtairs</hi> near <hi>Ratcliff-Croſs,</hi> ha<g ref="char:EOLhyphen"/>ving a Son that had been a long time indiſpoſed, weak, and thin of body, and his Diſtemper not rightly known, however gave him ſome of my Pilis, and at the third or fourth time taking, they brought from him ſeveral very large Worms, one whereof was as big as a Tobacco-pipe, and above half a yard in length, whereupon the Youth recovered perfect health.</p>
+            <p>Mr. <hi>Joſeph Marſhall</hi> of <hi>S. Albans</hi> had a ſervant, by name <hi>John White,</hi> who was exceedingly afflicted with the yellow and Black Jaundies, had the Scurvy in a high degree, and an exceeding dangerous Dropſie, inſomuch that all that viewed him gave him over for a dead man: but he having heard much of the excellencie of my Pills, was very deſirous to make trial of them; which accordingly he did, exactly following the directions in my Book; and was thereby in a very few weeks perfectly recovered. Of this Cure any perſon may alſo be informed at the Cock-Inne in <hi>Alderſgate</hi>-ſtreet, where the abovenamed Mr. <hi>Marſhal</hi> and his ſervant <hi>John White</hi> are very well known.</p>
+            <p>Mr. <hi>Joſeph Seidon,</hi> Woodmonger on <hi>Mill-banck Weſtminſter,</hi> being exceedingly afflicted with a dangerous <hi>Dropſie,</hi> inſomuch that the print of a ſinger would have continued in his fleſh at leaſt half an hour; and in this Condition (by a ſad ac<g ref="char:EOLhyphen"/>cident) was thruſt into the Body with a Sword, and bled much inwardly: his wounds alone were judged ſo dangerous, that moſt gave him over for a dead man; and yet ſome perſwaded him after all, to try what my <hi>Pills</hi> would do for him: which he willingly aſſented to; and their effects were indeed moſt wonderful, for they brought from him all the <hi>Coagulated</hi> or hardened Blood, which was judged before would very much haſten his death. They cauſed his Wounds quickly to heal, and perfectly Cured his <hi>Dropſie.</hi>
+            </p>
+            <p>The Wife of Mr. <hi>Tarlton</hi> Guilder, living at the <hi>Golden Croſs</hi> in <hi>Princes ſtreet,</hi> having received a great miſchief in her Labour, by miſtake or unskilfulneſs in her <hi>Midwife,</hi> was thereby brought into a very ſad languiſhing condition; for remedy whereof, much means was uſed, by advice of ſeveral Eminent Phyſitians, but none prevailed until ſhe took my Pills, which within a few weeks perfectly eaſed her of that burden ſhe ſhould have been quit of on the day of her Labour, which was almoſt three years before. This Cure, for good reaſon, is not ſet down near ſo fully as it might; yet is very conſiderable, and note-worthy.</p>
+            <p>Mrs. <hi>Palmer</hi> a Wine-Coopers Wife in <hi>Crooked lane,</hi> having been above twenty years very much diſtemper'd with the Scurvy, and for remedy whereof ſhe ſpared no coſt for the beſt advice, and ſpent ſeveral years (at the ſeaſons) in drinking the waters of <hi>Tunbredge, Epſome, &amp;c.</hi> but all in vain: and then, when no other means could be thought on, ſhe was adviſed to my Pills; which ſhe willingly took (exactly following the directions of my book given with them) and was thereby perfectly recovered, as her ſelf can teſtifie.</p>
+            <p>Mris <hi>Kidderminſter</hi> living near the Market-houſe in <hi>Shrewsbury,</hi> was deſperately diſeaſed with griping in the Guts, the Stone, ſhortneſs of breath, the Scurvy, intolerable gnawing pains in her ſtomack, and many other diſtempers, where<g ref="char:EOLhyphen"/>by ſhe was brought ſo extreme weak, that her death was expected every hour: and being in this condition, ſhe was told, that if any thing ſaved her life, it muſt be my Pills; which ſhe little minded, as judging her ſelf paſt help, how<g ref="char:EOLhyphen"/>ever was peraſwaded to take four of them, when in all apperance ſhe was even
+<pb n="10" facs="tcp:172496:6"/>at the Gates of Death: Thoſe four Pills wrought gently with her, by the way of Vomit twice, and after gave ſeveral Stools. When their operation or wor<g ref="char:EOLhyphen"/>king was over, ſhe found herſelf much eaſed, and the next morning was pretty well able to riſe without help, which ſhe could not do in a long time before: And whereas before ſhe was not able to go two yards without being led, ſhe was now (within a very few days) by four or five times taking my Pills, able to walk forth, and was perfectly cured, ſhe being at the ſame time above ſeventy five years of age.</p>
+            <p>
+               <hi>Mary</hi> the wife of <hi>Dennis Barnard</hi> of <hi>Butleigh</hi> in the County of <hi>Somerſet,</hi> being above three years troubled with a violent tormenting pain in the left ſide of her ſtomach, but more eſpecially after eating or drinking (when it was her conſtant uſe to tumble herſelf on the ground, in hopes of eaſe thereby) had the advice of many Phyſicians, and took many medicines they preſcribed her; but found no eaſe at all: and being brought exceeding low, even to the gates of death, almoſt deſpairing of life, was informed of the wonderful effects of my Pills; whereupon a Box of them was bought for her, at <hi>Yeovel</hi> in the ſaid County, ſhe took of them as many and as oft as her body was able to bear; and they brought from her by Stool many hundreds of living Worms, of ſtrange ſhapes; ſome about an inch in length, ſome longer, and headed like Eels. At laſt they brought from her ſomewhat like a bag; which was judged to be that wherein the Worms had lain. The woman upon this recovered perfect health, look'd freſh and well, and became as able to follow her buſineſs as in all her life; ſhe being at the ſame time fifty years of age.</p>
+            <p>Mr. <hi>John Johnſon,</hi> ſervant to Mr. <hi>Thomas Forth,</hi> Brewer in St. <hi>Giles</hi>'s in the fields, <hi>London,</hi> being ſo far gone in a moſt dangerous Dropſie, that he appeared to all that beheld him abſolutely paſt Cure, and not likely to live three days: This man, to the great admiration of all that knew him, was perfectly cured with my Pills. Of this great Cure any may be ſatisfied at the houſe of the ſaid Mr. <hi>Forth,</hi> as alſo by moſt of the Inhabitants thereabout.</p>
+            <p>On Munday the 19th of <hi>Fber.</hi> 1671. came to my houſe Mr. <hi>Higham</hi> of <hi>Barn<g ref="char:EOLhyphen"/>elms</hi> within 5 or 6 miles of <hi>London,</hi> who had been an eminent practitioner in Phyſic near 30 years, he told me, that many of my pills had been made uſe of by his advice: and further ſaid, that he had given them to ſeveral of his Patients in moſt Diſtempers; and I do declare, ſaid he, in the preſence of God, that in my life<g ref="char:EOLhyphen"/>time I have not met with any medicine, either in <hi>England,</hi> or my forreign Tra<g ref="char:EOLhyphen"/>vels comparable to your Pills, for the cure of Diſeaſes in general.</p>
+            <p>I could, if convenient, name many (of great Quality) who by experience have found my Pills to be the choice Phyſick of the world; particularly one of the Dukes of the Kingdom, who hath taken my Pills; and in his Letter (which I have now by me) his Grace is pleaſed, in a very high manner, to approve them, and to let me know they are a very Famous medicine in his Country. I could al<g ref="char:EOLhyphen"/>ſo inſert many others that have had help by them in <hi>London,</hi> and ſeveral other the conſiderable parts of <hi>England,</hi> &amp;c. where they are now to be ſold: for, if there be truth in man, I have daily tidings of their moſt wonderful efficacy in curing ſuch Diſeaſes, as by moſt are judged incurable. Notwithſtanding, for urther confirmation, have been perſwaded to inſert the following Letters.</p>
+         </div>
+         <div type="letters">
+            <pb n="11" facs="tcp:172496:6"/>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>Humph. Harris,</hi> Chirurgeon and School-Maſter in <hi>Sandwhich</hi> in the Iſle of <hi>Purbeck.</hi>
+               </head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have lately bought ſome of your Pills of Mr. <hi>Churchil</hi> at <hi>Dorcheſter</hi> in the County of <hi>Dorſet;</hi> and having taken of them my ſelf, have found them excellent Pills: my wife alſo having been a long time troubled with a diſeaſe in her head much like a <hi>Vertigo,</hi> by a few times taking them hath received much eaſe; they have alſo eaſed her ſtomach, which was very foul, and very much ſtraitned and obſtructed, with a con<g ref="char:EOLhyphen"/>tinual wheezing and want of breath. I have spared ſome to my neighbours; who have found much benefit by them, and commend them as the beſt Phyſick they ever took. Pray be pleaſed to ſend me about Forty or Fifty ſhillings worth; and let them be delivered to the <hi>Pool</hi>-Carrier, who will pay your Meſſenger for them. I have no more, but remain.</p>
+               <closer>
+                  <dateline>
+                     <hi>Sandwhich</hi> 
+                     <date>the <hi>2</hi> of April, <hi>72.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Sir,</salute> 
+                  <signed>
+                     <hi>Your humble ſervant</hi> Humphry Harris.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>William Woodgate,</hi> Mercer and Grocer at <hi>Brenchly</hi> in <hi>Kent.</hi>
+               </head>
+               <opener>
+                  <salute>Much Honored Sir:</salute>
+               </opener>
+               <p>THe Providence of God bringing one of your Books to my hand, wherein you diſcover the Cauſes. Symptoms, <hi>&amp;c.</hi> of the <hi>Scurvy;</hi> with which, and Gravel, a conſump<g ref="char:EOLhyphen"/>tiveneſs, much oppreſſion by winde, and the <hi>Jaundice,</hi> I have been ſome years paſt exerciſed: I ſent for ſome of your Pills, and uſed them according to directions; and through mercy, do finde much benefit by them, praiſed be to God, who hath directed you in making thoſe Excellent Pills. And Sir, I had quite loſt the <hi>Senſe of Smelling,</hi> long before ever I heard of your Pills, which is almoſt returned, but not fully, and do therefore deſire your further Advice in that particular; which pleaſe to ſend by my Carier <hi>John Auſtin,</hi> who Innes at the <hi>George</hi> in <hi>Southwark.</hi> Several hereabout, ob<g ref="char:EOLhyphen"/>ſerving the wonderful Cure that your Pills have wrought upon me, have taken many of ſerving the wonderful Cure that your Pills have wrought upon me, have taken many of them with admirable ſucceſs. The particulars of their effects, with teſtimonies of the ſe<g ref="char:EOLhyphen"/>veral Cures they have performed in theſe parts, you may ſuddenly expect from</p>
+               <closer>
+                  <dateline>
+                     <hi>Brenchly,</hi> 
+                     <date>the <hi>22</hi> of May, <hi>72.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Sir,</salute> 
+                  <signed>
+                     <hi>Your moſt humble Servants,</hi> Will. Woodgate.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>John Bingham,</hi> at <hi>Belwood</hi> in the Pariſh of <hi>Belton</hi> in the Iſle of <hi>Axholm, Lincoln-ſhire.</hi>
+               </head>
+               <opener>
+                  <salute>SIR.</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Make bold to acquaint you of a moſt wonderful Cure the Lord hath been pleaſed to work with your Pills: I have a Son about <hi>23</hi> years of age, that hath been very Dropſical, troubled with the Scurvy, and ſeveral other Diſtempers theſe <hi>5</hi> or 6 years, and of late hath been exceedingly ſwelled with the Dropſie in his legs, privities and al<g ref="char:EOLhyphen"/>moſt all parts of his body; a great dimneſs fell into his eyes, and withal he had a pain in his head ſo violent, that he could hardly contain himſelf within the bounds of pa<g ref="char:EOLhyphen"/>tience, and by reaſon thereof his head was held almoſt continually; be ſlept not in <hi>3</hi> or <hi>4</hi> days nor nights: and in this languiſhing condition fell into a grievous Flux, and had in a very ſhort time at leaſt <hi>30</hi> ſtools of nothing but bloud, ſo that my ſelf and ſeveral others judged he could not live 6 hours, for indeed he appeared as like a dying man as ever we ſaw any. And in this condition I ventured to give him ſome of your Pills, and it pleaſed God that with <hi>2</hi> or <hi>3</hi> doſes of them, his ſtools began to change; and be<g ref="char:EOLhyphen"/>fore he had taken out an half box, the violent pain in his head and his Dropſie were much
+<pb n="12" facs="tcp:172496:7"/>abated; and by that time he had taken out a whole box, all his diſtempers were per<g ref="char:EOLhyphen"/>fectly cured, to the great admiration of all that either ſaw or heard of his condition: only his eyes continue weak and dim; And for recovery thereof, I humbly intreat your advice in a line or two, which I ſhall take as a very great favour, endeavor to requite, and ever remain</p>
+               <closer>
+                  <dateline>
+                     <hi>Belwood,</hi> 
+                     <date>Jan. <hi>11. 1674.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Sir</salute> 
+                  <signed>
+                     <hi>Your moſt obliged Friend and Servant</hi> John Bingham.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>Nicolas Pierſon,</hi> Mayor of <hi>Portſmouth.</hi>
+               </head>
+               <opener>
+                  <salute>Worth Sir:</salute>
+               </opener>
+               <p>
+                  <hi>A</hi> Servant of mine (by name <hi>John Gawler</hi>) wat moſt extraordinarily afflicted with the <hi>Scurvy,</hi> and alſo very Dropſical, being through that diſtemper ſo ſwelled, that he was hardly able to lift his hands to his head; and withal was very much troubled with ſores in his hands and legs, which did ſo torment him, that indeed he was an Object of Pity. We made uſe of what means could be had here for his Cure, but in vain: until at laſt your Pills proved ſo effectual, that by his taking leſs then two half Boxes, I praiſe God, he was made in perfect health. I had given you this account ſome months ago; but doubting he might fall into the ſame diſtemper again, did forbear; but now I ſee his Cure confirmed, have thought fit to acquaint you thereof. Alſo Mr. <hi>Fairehill</hi> Shoomaker in <hi>Portſmouth,</hi> being exceedingly prrplext with the <hi>Scurvy,</hi> and his legs ſo ſwelled that he was hardly able to go out of his houſe, was, as he did himſelf ac<g ref="char:EOLhyphen"/>knowledge, by taking one Box of your Pills, made perfectly well: And further, I'le aſſure you Sir, I have heard many others moſt higly commend them, but at preſent have not time to give a more particular account; and therefore ſhall add no more, but that you will grant a line to</p>
+               <closer>
+                  <dateline>
+                     <hi>Portſmouth,</hi> 
+                     <date>
+                        <hi>Oct. 17. 1672.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Sir</salute> 
+                  <signed>Yours in all love <hi>Nicholas Pierſon.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>William Higgins</hi> of <hi>Pembridge</hi> near <hi>Leominſter,</hi> in the County of <hi>Hereford.</hi>
+               </head>
+               <opener>
+                  <salute>SIR.</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Hold my ſelf obliged to give you an account of the great benefit I have received by the worth and excellency of your Pills. My diſtemper has been an inverterate <hi>Cough,</hi> with an extraordinary ſtraitneſs of my breaſt, and ſhortneſs of breath much oppreſt with flegm anh melancholy, with violent ſtitches and pains, ſo that for ſome years paſt I have been viſited ſo ſharply, and brought ſo low with the violence of an inceſſant <hi>Cough,</hi> ſpit<g ref="char:EOLhyphen"/>ting up corrupt matter and flegm with frequent, long, and faint Sweatings that all that ever ſee me in that condition, judged it to be the laſt actings of a <hi>Conſumption,</hi> and that each fit would have pakt me to the grave. And in this condition, your Pills were pro<g ref="char:EOLhyphen"/>poſed (by ſome that had experienced them) as the moſt likely Medicine for my relief; whereupon I ſent to <hi>Leominſter</hi> for ſome of them, which I took as your book directed; and finding immediate eaſe and comfort, I continued (as ſtrength would permit) until I had emptied ſeveral half boxes, with admirale ſucceſs, and am now, I praiſe God, hearty, ſtrong and well, having eſcaped this last Spring, the uſual time of relapſing into my old diſtemper. This <hi>Gentleman</hi> the bearer hereof can give you a more ample re<g ref="char:EOLhyphen"/>lation than I dare permit my pen to do, unleſs I ſhould tranſgreſs in exceeding the bounds of a Letter: but this I muſt aſſure you that the whole Number of my acquaintance looks upon my recovery with no ſmall wonder; and Sir, for my own part, I ſhall ever extoll the vertues of your excellent Pills above all Medicines, for their quick, eaſie, and moſt affectual operation upon the peccant humours; and this not only by my own experience,
+<pb n="13" facs="tcp:172496:7"/>but by obſervtion of their effects upon ſeveral of my friends and acquaintance, of which (if requiſite) I could give ſome inſtances: but let this beg your candid acceptance, and ſuffice to aſſure you that I own my life ſaved by your Pills, and am,</p>
+               <closer>
+                  <dateline>
+                     <hi>Pembridge</hi> vi. <date>
+                        <hi>Junii, 1673.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Sir,</salute> 
+                  <signed>
+                     <hi>Your humble Servant,</hi> William Higgins.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <head>The manner of taking my PILLS, is thus.</head>
+            <p n="1">I. PErſons of a middle ſtrength are to begin with taking two or three Pills at Bed-time, three hours after a very light Supper (but no Supper is better.) If two or three be not ſufficient, adde one every night, until you take five, ſix or ſeven at once, or that you have the Doſe that beſt agrees with your body: take them two or three nights one after another, (or as ſtrength will allow) then forbear them a night, (or two nights, if the Patient be not ſtrong) then take them, as before, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">II. Thoſe whoſe Bodies are weak, or that a little Phyſick will work with, may begin with two Pills, taken after their firſt ſleep, or very early in the morn<g ref="char:EOLhyphen"/>ing faſting, and lye in bed an hour, or 2 or 3 hours after them, if conveniently they can, and if they ſleep upon them, it will be the better.</p>
+            <p n="3">III. <hi>Note,</hi> If the Pills work much in the night, it will afterwards be beſt to take them very early in the morning, and to lye in bed as before directed; or two, or three, more or leſs, may be taken at night, and as many in the morn<g ref="char:EOLhyphen"/>ing. Women with-childe, and thoſe that give Suck, ſhould begin with taking but one or two Pills; and afterwards may take more, as they finde them con<g ref="char:EOLhyphen"/>venient.</p>
+            <p n="4">IV. To Children about three of four years old, give half or three quarters of a Pill; to Elder Children, give a Pill, two or three, according to their age and ſtrength.</p>
+            <p n="5">V. If the patient by thirſty in time of the Pills operation or working, he may drink a draught or two of ſuch Liqour as he beſt likes, except in <hi>Dropſies,</hi> in which 'tis much better to drink the liquor made as followeth (if convenient<g ref="char:EOLhyphen"/>ly to be had.)</p>
+            <p>
+               <hi>Take of the tops of Green-Broom ſix handful, of Fumitory as much; Scurvy-graſs, Wormwood, of each three handful, all cut; Bark of Elder ten ounces Juniper-Berries bruiſed twelve ounces, Anniſeeds bruiſed fix ounces, Horſe-Radiſh-Roots three ounces, liquoriſh four ounces; ſlice the Roots, put all into a thin Linnen or Hair Bag, and put them into five Gallons of ſtrong Ale: when it hath almoſt done Working, within a day or two after, the Patient ſhould begin to drinke thereof three draughts in a day; but if the drink no other Liquor, it will be the better: and let him ſometimes eat a little Candid or GreenGinger; and ſtill remember, beſides the drink to take my Pills as before appointed.</hi> Theſe directions obſerved, is an Infallible Remedy againſt any curable <hi>Dropſie,</hi> as hath been very often proved. And note, this Drink, with my Pills, is of excellent uſe for ſuch as finde themſelves very far gone with the <hi>Scurvy.</hi>
+            </p>
+            <p n="6">VI. Such as care not to ſwallow Pills alone, may take them in a little of the pap of an Apple Stew'd prunes, 3 or, 4 ſpoonfuls of Beer, Ale or Wine, or they may be bruiſed or cut ſmall (which indeed is the beſt way if they be very hard) and taken with Honey, Sugar, the pap of an Apple, Beer, Ale or Wine, <hi>&amp;c.</hi>
+            </p>
+            <p n="7">VII. Againſt the <hi>Pox, Gonorrbaea,</hi> or <hi>Running of the Reins,</hi> let the Pills be taken in the largeſt doſe, ſo long as occaſion ſhall require: and if in the <hi>Pox</hi> there be many Warts, breakings out, Scabs or Ulcers, that very much moleſt
+<pb n="14" facs="tcp:172496:8"/>the patient, let him have but a little patience, and by the uſe of my pills, they will all infallibly vaniſh: but if the patient be in extraordinary haſte to have ſuch Scabs, Cruſt or Ulcers diſappear, then let him continue my pills as above-directed, and to his ſores, apply this medicine following.</p>
+            <p>
+               <hi>Take</hi> Unguentum Baſilicum <hi>half an ounce,</hi> Red precipitate <hi>twenty granes,</hi> Mer<g ref="char:EOLhyphen"/>curius Dulcis, <hi>in moſt fine Powder, one dram; mix all well together, and apply ſome of it upon Lint, every day freſh, to your ſores,</hi> &amp;c.</p>
+            <p n="8">VIII. <hi>Note,</hi> My pills ſometimes give an eaſie Vomit or two; that is, when the doſe is large, the ſtomach foul, or nature much inclined that way: which ſtill proves very well for the patient; for they always carry forth ſuch Cho<g ref="char:EOLhyphen"/>lerick, Flegmatick, and other noxious Excrements, as Nature could not evacuate any other way, and by that means often compleat the Cure. And if in their working the patient chance to be much Stomach-ſick (which ſeldom happens) then let him drink a glaſs of Sack, or burnt White-wine; or if Wine be too coſtly, a draught of ſtrong Ale warmed, either of which uſually gives ſpeedy eaſe.</p>
+            <p n="9">IX. I adviſe all, in the time of taking my pills, from old Cheeſe, and meats very ſalt and windy,</p>
+            <p n="10">X. <hi>Note,</hi> That in any ſudden ſickneſs or infection, (againſt which they are excellently good) with all ſpeed that may be, the patient ſhould take a full doſe of my pills, <hi>viz.</hi> 4, 5, or 6, according to Age and ſtrength, and the next day take the medicine following.</p>
+            <p>Take mithridate one dram and half, (or two drams) Salt of Wormwood one ſcruple, Diaphoretick Antimony ſixteen grains, Spirit of Sulphur fifteen drops, Carduus-Water four ounces: mix them. An Apothecary can make up the medicine for you, or it may be had faithfully made up at my own houſe. Take it in bed in the morning faſting: be covered warm, and ſweat as ſtrength will allow.</p>
+            <p>This potion is for a perſon of middle ſtrength. When you come out of your Sweat, be careful that you catch no Cold. A day or two after, you may take another doſe of my Pills: but if the diſeaſe be no Infection, and ſeem not to be extraordinary dangerous, the Cordial Sweating medicine need not be taken, for my Pills alone will compleat the Cure, (in which you may confide againſt moſt Diſeaſes curable by Phyſick.) But here, by the way, you ſhould conſider, that when Nature is ſo oppreſſed by an inverterate diſeaſe, as that ſome of the internal principal parts are ulcerated and periſhed, (which often happens) that then 'tis impoſſible to make new ones inſtead of thoſe conſumed: In all ſuch caſes we have juſt cauſe to judge the Patient immedicable, or incurable: Alſo we know, it is appointed for man once to die, <hi>Heb.</hi> 9.27. and when that time is come, 'tis not the beſt Phyſick in the world ſhall protract it one minute; in ſuch caſes my Pills can do no good: and therefore every one ought to conſider what hath been ſaid, and to expect accordingly; and remember, that a ſmall matter will reſiſt a diſeaſe in its beginning, but when once radicated or rooted, it is with much difficulty cured: and therefore to oppugn or reſiſt a diſeaſe in its Minority, is no ſmall point of wiſdom.</p>
+            <p n="11">XI. <hi>Note,</hi> The Cordinal Sweating potion above preſcribed, is alſo of ad<g ref="char:EOLhyphen"/>mirable uſe for ſuch as have the <hi>Pox,</hi> to be taken once or twice in a week; alſo againſt pains of the Body, Limbs or Joynts; the <hi>Gout, Scurvy, Dropſie, &amp;c.</hi> but the Patient ſhould continue taking my Pills, ſave on the Sweating daies, as a<g ref="char:EOLhyphen"/>bove-directed.</p>
+            <pb n="15" facs="tcp:172496:8"/>
+            <p n="12">XII. <hi>Note,</hi> That in the preparation of theſe moſt excellent Pills, is not only much pains, care and watching, but alſo vaſt expence: Notwithſtanding, that the meaner ſort might have help hereby, as well as the rich, I have ſet a very low rate upon them; the half Box whereof, Forty Pills in number, (or within one or two more or leſs) being but Three ſhillings; and the whole Box, con<g ref="char:EOLhyphen"/>taining Eighty Pills, (or within two or three more or leſs) Six ſhillings.</p>
+            <p>But becauſe of Dangers, and extraordinary Charge of Fraight by Sea, and great Coſt of Returns from many parts out of <hi>England,</hi> the half Box of Pills in <hi>Ireland</hi> is ſold for Three ſhillings ſix pence, and the whole box for Seven ſhillings, and not under.</p>
+            <p>They are ſealed up in <hi>Tin-boxes,</hi> with my own Seal at Arms, being <hi>A Lion paſſant guardant;</hi> and are alſo to be ſold by</p>
+            <list>
+               <item>
+                  <hi>Mr. Henry Brome</hi> Bookſeller, at the Gun neer the Weſt-end of <hi>St. Pauls</hi> Chruch.</item>
+               <item>
+                  <hi>Mr. Francis Aſhborne,</hi> at the Bodies and Sleeves in Cheapſide near Friday-ſtreet.</item>
+               <item>
+                  <hi>Mr. Daniel Bennet,</hi> Cutler in Exchange-alley in Cornhil.</item>
+               <item>
+                  <hi>Mr. Robert Boulter</hi> Bookſeller, at the Turks head againſt the Royal Exchange in Cornhil.</item>
+               <item>
+                  <hi>Mr. John Painter</hi> Coffee-man, at his houſe com<g ref="char:EOLhyphen"/>monly called <hi>Johns Coffee-houſe,</hi> above the Royal exchange in Cornhil.</item>
+               <item>
+                  <hi>Mr. Alkin</hi> Confectioner, at the Lion and Ball a<g ref="char:EOLhyphen"/>gainſt Cree-church in Leadenhal ſtreet.</item>
+               <item>
+                  <hi>Mr. Tuthil</hi> Bookſeller, at the Chirurgeons Sign neer the Armitage-Bridge.</item>
+               <item>
+                  <hi>Mr. Butther</hi> Diſtiller, at the Plow and Still a<g ref="char:EOLhyphen"/>gainſt the <hi>George</hi> Inne in Southwark.</item>
+               <item>
+                  <hi>Mr. Stevens</hi> Confectioner, at the Sugar-loaf a<g ref="char:EOLhyphen"/>gainſt White-croſs-ſtreet, joyning to Cripple<g ref="char:EOLhyphen"/>gate-Church.</item>
+               <item>
+                  <hi>Mr. Tho. Chew</hi> Diſtiller, at the Green-man neer Smithfield bars.</item>
+               <item>
+                  <hi>Mr. George Lion</hi> Grocer, at the Tobacco-roll at little Queen ſtreet-end in High-Holborn.</item>
+               <item>
+                  <hi>Mr. John Baynes</hi> Tin-man at the Bird cage at <hi>Cock-lane end,</hi> againſt Holborn-Conduit.</item>
+               <item>
+                  <hi>Mrs. Firby</hi> Stationer, under Grays-Inne-gate in Holborn.</item>
+               <item>
+                  <hi>Mr. John Starkey</hi> Bookſeller, at the Mitre in Fleetſtreet neer Temple bar.</item>
+               <item>
+                  <hi>Mr. Preſton</hi> Bookſeller, at the Roſe and Crown in <hi>Great Turnſtile-ally</hi> in Holborn.</item>
+               <item>
+                  <hi>Mr. Magnes</hi> Bookſeller, at the Poſthouſe in Ruſ<g ref="char:EOLhyphen"/>ſel-ſtreet Covent-Garden.</item>
+               <item>
+                  <hi>Mrs. Duke</hi> Coffee-ſeller, againſt the Star-Inn in the Strand neer Charing-Croſs.</item>
+               <item>
+                  <hi>Mr. Pierſon</hi> Diſtiller, at the Golden Still againſt the Miter tavern in Kings-ſtreet <hi>Weſtminſter.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Milward</hi> at <hi>Weſtminſter</hi>-Hall-gate.</item>
+               <item>Mr. <hi>Simon Wood,</hi> Mercer in <hi>Bewdley.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hugh Keate,</hi> Bookſeller in <hi>Eveſham.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Stephen Dagnal,</hi> Bookſeller in <hi>Alisbury,</hi> and at his ſhop in <hi>Layton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Philips,</hi> Bookſeller and Poſt-Maſter in <hi>Worceſter.</hi>
+               </item>
+               <item>Mr. <hi>John Broughton,</hi> Barber-Chirurgeon in <hi>Welling borrow.</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Ball,</hi> Stationer, againſt the Shambles in <hi>Banbury.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Richard Hunt,</hi> Bookſeller, in <hi>Hereford.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Obed Smith,</hi> Bookſeller in <hi>Daventry.</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Morris,</hi> mercer in <hi>Wickham.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Edward Milward,</hi> Bookſeller, near the <hi>George</hi> in <hi>Litchfield,</hi> and at his Shop in <hi>Tamworth.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Joſhua Simmons,</hi> Mercer in <hi>Alderſton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Tho, Yate,</hi> Grocer in <hi>Whitchurch</hi> in <hi>Shropſhire.</hi>
+               </item>
+               <item>Mris. <hi>Ruth Tompſon,</hi> Bookſeller in <hi>Harborough,</hi> and at her Shops in <hi>Lutterworth</hi> and <hi>Kettering.</hi>
+               </item>
+               <item>Mris. <hi>Elizabeth Lincoln,</hi> Bookſeller in <hi>Saturday</hi>-market-place in <hi>Leiceſter,</hi> and at her Shop next the <hi>Crown</hi>-Inn in <hi>Loughborough.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jethro Thornton,</hi> Bookſeller in <hi>Derby.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jeremiah Tomlinſon,</hi> Bookſeller in <hi>Warring<g ref="char:EOLhyphen"/>ton</hi> and at his Shop in <hi>Leverpool.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Green,</hi> Bookſeller in <hi>Lancaſter.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Ralph Shelmerdin,</hi> Stationer in <hi>Mancheſter.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Chriſtopher Lee,</hi> Bookſeller in <hi>Maidſton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Allen Sartan,</hi> Grocer, againſt the Colledge-Gate in <hi>Rocheſter.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Reſt Fenner,</hi> Bookſeller in <hi>Canterbury.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Heaviſide,</hi> Scrivener near the Sun in <hi>Chatham.</hi>
+               </item>
+               <item>mr. <hi>John Hall,</hi> Chandler in <hi>Dover.</hi>
+               </item>
+               <item>
+                  <hi>Mr. William Baily,</hi> Bookſeller in <hi>Wolverhampton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Griffith Davies,</hi> Mercer in <hi>Oſwaldſtry.</hi>
+               </item>
+               <item>
+                  <hi>Mrs. Martha Tubb,</hi> Confectioner, at her ſhop at Mris. <hi>Mary Corbets,</hi> in <hi>Mardol</hi> in <hi>Shrewsbury.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Richard Clifford,</hi> Chandler in <hi>Northampton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Jervis,</hi> Barber-Chirurgion at the Grate-houſe in <hi>Warwick.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Richard Graygooſs,</hi> Grocer in <hi>Epping.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Richard Monck,</hi> mercer in <hi>Mansfield.</hi>
+               </item>
+               <item>
+                  <hi>Mr. William Williams,</hi> at the Red Lion Inn in <hi>Brackley.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Henry Howard,</hi> barber-chirurgion in <hi>Buc<g ref="char:EOLhyphen"/>kingham.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Daniel May,</hi> at the Cock in <hi>Watford.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Slator</hi> Mercer in <hi>Sturbridge</hi> in <hi>Wor<g ref="char:EOLhyphen"/>ceſter</hi> ſhire.</item>
+               <item>
+                  <hi>Mr. Thomas Loxam</hi> Mercer in <hi>Preſton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Kichard Waldron</hi> Barber-chirurgion neer the market place in <hi>Ludlow.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jawes Wills,</hi> Barber in <hi>Hinckly.</hi>
+               </item>
+               <pb n="16" facs="tcp:172496:9"/>
+               <item>
+                  <hi>Mr. Hierom Gregory,</hi> Bookſeller in <hi>Brimigham.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jacob Watſon</hi> Mercer in <hi>Thame.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Henry Tomlin</hi> Mercer in <hi>Stratford upon Avon.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Radford</hi> Merc et in <hi>Cheſterfield.</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Punter</hi> Grocer in <hi>Luton.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Wickſled</hi> Bookſeller in <hi>Bridgnorth.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Stephen Waring</hi> Barber-chirurgion in <hi>Chip<g ref="char:EOLhyphen"/>pingnorion.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Wright</hi> mercer neer the Croſs in <hi>Co<g ref="char:EOLhyphen"/>ventry.</hi>
+               </item>
+               <item>Mr. <hi>John Warner,</hi> Barber-Chirurgion at the Nags<g ref="char:EOLhyphen"/>heed in <hi>Dunſtable</hi>
+               </item>
+               <item>Mr. <hi>John Battiſſon,</hi> Iroum Oager in <hi>Newport Pagnel.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Samuel Fenn,</hi> Hatter in <hi>Bedford.</hi>
+               </item>
+               <item>
+                  <hi>Mr. James Lem,</hi> Diſtiller, at the Still near the Croſs in <hi>Cheſter.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Pitts</hi> Barber-chyrurgeon in <hi>Lyme.</hi>
+               </item>
+               <item>
+                  <hi>Mr. William Wells,</hi> Grocer in <hi>Peterborough.</hi>
+               </item>
+               <item>Mr. <hi>John Cairnes,</hi> Bookſeller at the entrance into the Parliament<g ref="char:EOLhyphen"/>yard in <hi>Edinburgh.</hi>
+               </item>
+               <item>Mr. <hi>John North,</hi> Bookſeller againſt the Tolſel in <hi>Dublin.</hi>
+               </item>
+            </list>
+            <p>And all other the uſual places appointed for Sale of them.</p>
+         </div>
+         <div type="authors_note">
+            <head>ADVERTISEMENT.</head>
+            <p>BEcauſe I would be as plain as 'tis poſſible, and would have no miſtake, pray ob<g ref="char:EOLhyphen"/>ſerve, That thoſe whoſe Diſtempers are of long continuance, cannot in reaſon ex<g ref="char:EOLhyphen"/>pect perfect cure with ſix or ſeven times taking my Pills; ſuch ſhould therefore take them in a Doſs as large as they can conveniently bear, (but not to weaken Nature too much) and continue them <hi>15,</hi> or <hi>20</hi> days, or longer, if need require; omitting them a day or two ſometimes, as before-directed, or as the Patient ſhall ſee cauſe. And that my Pills may as far as is poſſible anſwer every ones expectation, <hi>I</hi> do adviſe all perſons that ſhall <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>e them (whole,) and not finde them operate by Stools, or other ways by Sweat, Urine, <hi>&amp;c.</hi> as may be expected from the number taken, that they would after<g ref="char:EOLhyphen"/>wards cut of bruiſe them pretty ſmall, and ſo take them in the pap of an Apple, ſtew'd Prunes, or drink them in half a dozen ſpoonfuls of Ale, Beer, or what beſt likes them; which is a ſure way to make them operate to content, though ſeven years old. They be<g ref="char:EOLhyphen"/>ing really not at all the worſe (but only harder) by long keeping: and in ſuch caſe of their not working to content, alſo, to drink a good draught on two in the forenoon of Poſſet-drink thin Broth, or Ale, will be very ſignificant to forward and quicken their operation. But withal note, that when not only my Pills, but any other Cathartique Medicine hath been taken three or four days ſucceffively, there cannot be matter the third and fourth times to work on, as there was the firſt and ſecond takings. And as it is moſt Certain, that they do not always perform the Cure by giving Stools only, but as well by ſtrengthning the faculties of the Stomach, provoking Urine, Sweat, opening all ſtuborn Obſtructions, purifying the Blood, <hi>&amp;c.</hi> So is it alſo moſt true, that half ſo many Stools, when they have been taken three or four days as above mentioned, are as ſignificant to the cure of a Diſtemper, as ſo many more were at firſt taking. All which rightly weighed, will I preſume be full Satisfaction to all Conſidering Men.</p>
+            <pb facs="tcp:172496:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
